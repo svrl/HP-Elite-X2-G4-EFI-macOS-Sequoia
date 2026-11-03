@@ -2,7 +2,7 @@ OpenCore EFI files for the HP Elite x2 G4, tested on macOS Sequoia.
 
 It should also work with macOS Tahoe, but it may be too demanding for this hardware.
 
-## OpCore Simplify
+## OpCore Simplify Output
 
 #### 1. CPU:
    - Intel(R) Core(TM) i7-8565U: Up to macOS Tahoe 26
