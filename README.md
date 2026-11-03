@@ -63,9 +63,9 @@ Disable Secure Boot and Fast Boot. Also, configure the UEFI boot settings to ena
 
 ## 2. USB Preparation
 
-Using Rufus, format a USB flash drive with at least 1 GB of capacity as a Non-bootable disk.
+Using Rufus, format a USB flash drive with at least 1 GB of capacity as a Non-bootable disk & GPT.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/0711805d-de0b-4ff0-ac9b-08900747b9e1" />  
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/717c0d1d-5402-4d87-87ea-12192756697d" />
 
 Copy the EFI folder to the root directory of the USB drive. The folder structure should look like this:
 
