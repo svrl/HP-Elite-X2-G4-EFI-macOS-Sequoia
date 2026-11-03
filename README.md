@@ -73,5 +73,5 @@ Copy the EFI folder to the root directory of the USB drive. The folder structure
 
 ## 3. Installation
 
-Continue with the standard macOS installation process. The system will restart several times during the installation.
+Plug your usb flash to X2 and press F9 to select your usb at boot. Continue with the standard macOS installation process. The system will restart several times during the installation.
 
